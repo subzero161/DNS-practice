@@ -20,3 +20,9 @@ Assignment 8, HHA 504, AHI, SBU
 6. A "/photos" folder that contains screen shots of your live flask application deployed on your website 
 
 7. Once completed, please feel free to shut down the instance/VM to save money - UNLESS you want to keep it live (e.g., maybe your are creating a personal CV website to show off your new skills....)
+
+
+
+the website is gesun.tech
+
+This website would potentially be used as a pseudo site to deploy any flask app and testing it out before presenting it to a client.
